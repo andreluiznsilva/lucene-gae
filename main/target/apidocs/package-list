@@ -1,6 +1,0 @@
-com.googlecode.lucene.gae
-com.googlecode.lucene.gae.blobstore
-com.googlecode.lucene.gae.blobstore.wrapper
-com.googlecode.lucene.gae.datastore
-com.googlecode.lucene.gae.datastore.file
-com.googlecode.lucene.gae.tool

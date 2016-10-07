@@ -1,8 +1,0 @@
-/home/andreln/git/lucene-gae/main/src/test/java/com/googlecode/lucene/gae/datastore/DataStoreWriterTest.java
-/home/andreln/git/lucene-gae/main/src/test/java/com/googlecode/lucene/gae/datastore/DataStoreReaderTest.java
-/home/andreln/git/lucene-gae/main/src/test/java/com/googlecode/lucene/gae/blobstore/BlobStoreWriterTest.java
-/home/andreln/git/lucene-gae/main/src/test/java/com/googlecode/lucene/gae/blobstore/BlobStoreReaderTest.java
-/home/andreln/git/lucene-gae/main/src/test/java/com/googlecode/lucene/gae/TestUtils.java
-/home/andreln/git/lucene-gae/main/src/test/java/com/googlecode/lucene/gae/tool/IndexToolTest.java
-/home/andreln/git/lucene-gae/main/src/test/java/com/googlecode/lucene/gae/blobstore/AppEngineFileWrapperRepositoryTest.java
-/home/andreln/git/lucene-gae/main/src/test/java/com/googlecode/lucene/gae/datastore/DataStoreFileRepositoryTest.java

@@ -1,8 +1,0 @@
-com/googlecode/lucene/gae/blobstore/BlobStoreWriterTest.class
-com/googlecode/lucene/gae/tool/IndexToolTest.class
-com/googlecode/lucene/gae/datastore/DataStoreFileRepositoryTest.class
-com/googlecode/lucene/gae/datastore/DataStoreWriterTest.class
-com/googlecode/lucene/gae/blobstore/BlobStoreReaderTest.class
-com/googlecode/lucene/gae/datastore/DataStoreReaderTest.class
-com/googlecode/lucene/gae/TestUtils.class
-com/googlecode/lucene/gae/blobstore/AppEngineFileWrapperRepositoryTest.class
