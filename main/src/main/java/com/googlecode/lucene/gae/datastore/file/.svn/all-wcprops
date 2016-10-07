@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/50/trunk/main/src/main/java/com/googlecode/lucene/gae/datastore/file
+END
+DataStoreFileRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/50/trunk/main/src/main/java/com/googlecode/lucene/gae/datastore/file/DataStoreFileRepository.java
+END
+DataStoreFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/50/trunk/main/src/main/java/com/googlecode/lucene/gae/datastore/file/DataStoreFile.java
+END
+DataStoreFilePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/50/trunk/main/src/main/java/com/googlecode/lucene/gae/datastore/file/DataStoreFilePart.java
+END
