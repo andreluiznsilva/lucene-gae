@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/64/trunk/example/src/main/java/servlet/task
+END
+TestTaskServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/18/trunk/example/src/main/java/servlet/task/TestTaskServlet.java
+END
+OtimizeTaskServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/example/src/main/java/servlet/task/OtimizeTaskServlet.java
+END
+DeleteTaskServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/64/trunk/example/src/main/java/servlet/task/DeleteTaskServlet.java
+END
+BaseTaskHttpServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/example/src/main/java/servlet/task/BaseTaskHttpServlet.java
+END
