@@ -1,11 +1,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
 	<name>lucene-gae</name>
 
-	<groupId>com.googlecode</groupId>
-	<artifactId>lucene-gae-example</artifactId>
+	<parent>
+		<groupId>andreluiznsilva.lucene.gae</groupId>
+		<artifactId>parent</artifactId>
+		<version>0.0.3-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>example</artifactId>
 	<version>0.0.3-SNAPSHOT</version>
 	<packaging>war</packaging>
 
@@ -34,8 +39,8 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.googlecode</groupId>
-			<artifactId>lucene-gae</artifactId>
+			<groupId>andreluiznsilva.lucene.gae</groupId>
+			<artifactId>core</artifactId>
 			<version>${lucene-gae.version}</version>
 		</dependency>
 
