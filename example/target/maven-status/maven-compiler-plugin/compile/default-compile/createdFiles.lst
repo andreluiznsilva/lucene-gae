@@ -1,0 +1,14 @@
+servlet/app/ImportServlet.class
+servlet/task/BaseTaskHttpServlet.class
+servlet/app/DeleteServlet.class
+servlet/app/SearchServlet.class
+servlet/app/BaseHttpServlet.class
+org/apache/lucene/store/profile/Profile.class
+servlet/app/ExportServlet.class
+org/apache/lucene/store/DataOutput.class
+servlet/task/TestTaskServlet.class
+org/apache/lucene/store/profile/ProfileDirectory.class
+servlet/task/DeleteTaskServlet.class
+servlet/LuceneUtils.class
+servlet/app/IndexServlet.class
+servlet/task/OtimizeTaskServlet.class
